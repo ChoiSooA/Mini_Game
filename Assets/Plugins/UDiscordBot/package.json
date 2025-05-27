@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.nkstudio.udiscordbot",
+  "displayName": "UDiscord Bot",
+  "version": "1.0.4",
+  "unity": "2021.3",
+  "type": "Library",
+  "description": "Discord Bot for Unity",
+  "author": {
+    "name": "NK Studio"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "repository": {
+    "url": "https://github.com/NK-Studio/UDiscod-Bot",
+    "type": "git"
+  }
+}
