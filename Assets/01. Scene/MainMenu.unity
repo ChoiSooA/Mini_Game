@@ -650,6 +650,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1268494560}
   - component: {fileID: 1268494561}
+  - component: {fileID: 1268494562}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -687,6 +688,20 @@ MonoBehaviour:
   gameOverCanvasPrefab: {fileID: 2652188997982545797, guid: 15e535ddd67d0e34a8e4945dee28e5ff, type: 3}
   IngameCanvasPrefab: {fileID: 3298198160001526746, guid: ff10b8f20e5e0de42817541704decf26, type: 3}
   currentSceneName: 
+--- !u!114 &1268494562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268494559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7954de80306ab42b1c4deb009b6321, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  list: []
+  text: 
 --- !u!1 &1305440327
 GameObject:
   m_ObjectHideFlags: 0
